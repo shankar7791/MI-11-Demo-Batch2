@@ -1,1 +1,1 @@
-I am Pranjali Ajmire from Amravati
+I am Pranjali, I am a developer

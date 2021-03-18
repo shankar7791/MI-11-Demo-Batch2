@@ -1,1 +1,1 @@
-I'm Richa Susan from Trivandrum,Kerala
+I'm Richa 

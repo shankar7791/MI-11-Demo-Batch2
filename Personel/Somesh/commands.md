@@ -20,7 +20,7 @@ find  :   // search list and file based on criteria
 	find (path) option filename
 su :     // used to switch the user account 
 sudo :   // gives authentication 
-
+man : //information / manual 
 git --version ://shows git version
 git clone gitlink
 git config   --global user.name "username"
